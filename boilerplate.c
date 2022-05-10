@@ -67,7 +67,7 @@ void parseArgs(int argc, const char *argv[]){
 
 
 void printHelp(){
-	printf(PROJ": put simple description here\n");
+	printf(PROJ": a reaction-diffusion visualizer\n");
 	for(int i = 0; i < NUM_ARGS; i++){
 		printf("%s : %s\n", help[i][0], help[i][1]);		
 	}
