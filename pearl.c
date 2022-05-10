@@ -10,8 +10,8 @@
 #define B_ 1
 #define DA 1.0
 #define DB 0.5
-#define k 0.06
-#define f 0.03
+#define k 0.05
+#define f 0.012
 //#define k 0.0649
 //#define f 0.0367
 #define DT 1
